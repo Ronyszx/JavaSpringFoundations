@@ -1,5 +1,8 @@
 package com.example.demo.game;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class PacmanGame implements gameConsole {
     public void up(){
         System.out.println("move up");

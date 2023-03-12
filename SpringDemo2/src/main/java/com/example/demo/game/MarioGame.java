@@ -1,5 +1,7 @@
 package com.example.demo.game;
 
+import org.springframework.stereotype.Component;
+
 public class MarioGame implements gameConsole {
 
     public void up(){
