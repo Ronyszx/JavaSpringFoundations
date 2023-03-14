@@ -16,8 +16,7 @@ public class App03SpringGame {
 //    @Bean
 //    public GameRunner gameRunner(gameConsole game){
 //        var gameRunner = new GameRunner(game);
-//        return gameRunner;
-    //running in ubuntu
+//        return gameRunner
 //    }
     public static void main(String[] args) {
 
