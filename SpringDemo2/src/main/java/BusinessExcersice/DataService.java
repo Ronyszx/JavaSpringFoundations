@@ -1,5 +1,5 @@
 package BusinessExcersice;
 
 public interface DataService {
-    int retriveData();
+    int[] retriveData();
 }
